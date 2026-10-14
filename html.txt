@@ -1,0 +1,9 @@
+<html>
+<body>
+<title>SIMPLE HTML FORM</table>
+<form>
+<lable>username:</lable>
+<input type="text" name="username">
+</form>
+</body>
+</html>

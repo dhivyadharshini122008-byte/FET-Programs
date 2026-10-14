@@ -1,0 +1,22 @@
+<html>
+<body>
+<h1><b><center>Biryani House</center></b></h1>
+Biryani House was a popular shop and the quality ,taste was amazing.It was started in 2012.
+<h2><b>MENU</b></h2>
+<ul>
+<li>EGG BIRYANI</li>
+<li>CHICKEN BIRYANI</li>
+<li>MUTTON BIRIYANI</li>
+<li>PRAWN BIRYANI</li>
+<li>PANEER BIRYANI</li>
+<li>VEGETABLE BIRYANI</li>
+<li>FISH BIRYANI</li>
+</ul>
+<img src="https://t3.ftcdn.net/jpg/08/47/50/14/240_F_847501412_S77aqKOovH5Ih7kUCafFKtsRlgvq9BnD.jpg>
+
+<img src="https://as1.ftcdn.net/v2/jpg/06/32/96/76/1000_F_632967626_e5m5Mf8fz5A48P0CrnqZotz36Y3NRXgp.jpg" width="300" height="200">
+</body>
+</html>
+
+
+ 
